@@ -52,3 +52,5 @@ if st.button("Decidir sobre la hipótesis nula"):
         st.write(f"**Rechazamos \(H_0\):** Hay evidencia suficiente para concluir que la moneda no es justa (α={alpha}).")
     else:
         st.write(f"**No rechazamos \(H_0\):** No hay evidencia suficiente para concluir que la moneda no es justa (α={alpha}).")
+
+#Algunas observaciones que identificar
